@@ -1,3 +1,6 @@
+# Data folder
+/data/
+
 # OSX extras
 .DS_Store
 
@@ -5,5 +8,8 @@
 .cache/*
 tests/__pycache__/*
 
-# pyc files
-*.pyc
+# Jupyter notebook checkpoints
+.ipynb_checkpoints
+
+# Test file
+src/testing-code.py

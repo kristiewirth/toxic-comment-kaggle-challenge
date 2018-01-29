@@ -1,0 +1,4 @@
+pandas==0.22.0
+numpy==1.12.1
+scikit_learn==0.19.1
+spacy==2.0.6.dev0
